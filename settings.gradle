@@ -1,0 +1,3 @@
+include ':develop'
+include ':app'
+rootProject.name = "ComponentModule"
